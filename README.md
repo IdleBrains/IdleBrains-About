@@ -2,7 +2,7 @@
 
 Like working on side projects? You have come to the right place
 
-We can collobarate on hobby projects and learn together.
+We can collaborate on hobby projects and learn together.
 
 Want to join? 
 It's simple, Create an issue in this repo, with the title `Join IdelBrains` and specify the languages/tech you are comfortable with, and one of our members will add you to this organization.
